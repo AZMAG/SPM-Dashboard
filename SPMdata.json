@@ -11,7 +11,7 @@
   {
     "Time": "Q4 2021",
     "FirstTimeHomeless": 11578,
-    "LengthofTime": "",
+    "LengthofTime": null,
     "ReturnsOneYear": 0.18,
     "JobIncomeGrowth": 0.57,
     "SuccessfulExits": 0.39,
@@ -20,7 +20,7 @@
   {
     "Time": "Q1 2022",
     "FirstTimeHomeless": 11835,
-    "LengthofTime": "",
+    "LengthofTime": null,
     "ReturnsOneYear": 0.16,
     "JobIncomeGrowth": 0.57,
     "SuccessfulExits": 0.36,
@@ -46,10 +46,10 @@
   },
   {
     "Time": "Goal",
-    "FirstTimeHomeless": "",
+    "FirstTimeHomeless": null,
     "LengthofTime": 97,
     "ReturnsOneYear": 0.13,
-    "JobIncomeGrowth": "",
+    "JobIncomeGrowth": null,
     "SuccessfulExits": 0.45,
     "SuccessfulPHExits": 0.98
   }
