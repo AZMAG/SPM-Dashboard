@@ -3,54 +3,54 @@
     "Time": "2021 SPM",
     "FirstTimeHomeless": 11402,
     "LengthofTime": 102,
-    "ReturnsOneYear": 0.18,
-    "JobIncomeGrowth": 0.57,
-    "SuccessfulExits": 0.4,
-    "SuccessfulPHExits": 0.97
+    "ReturnsOneYear": "18%",
+    "JobIncomeGrowth": "57%",
+    "SuccessfulExits": "40%",
+    "SuccessfulPHExits": "97%"
   },
   {
     "Time": "Q4 2021",
     "FirstTimeHomeless": 11578,
-    "LengthofTime": null,
-    "ReturnsOneYear": 0.18,
-    "JobIncomeGrowth": 0.57,
-    "SuccessfulExits": 0.39,
-    "SuccessfulPHExits": 0.97
+    "LengthofTime": "null",
+    "ReturnsOneYear": "18%",
+    "JobIncomeGrowth": "57%",
+    "SuccessfulExits": "39%",
+    "SuccessfulPHExits": "97%"
   },
   {
     "Time": "Q1 2022",
     "FirstTimeHomeless": 11835,
-    "LengthofTime": null,
-    "ReturnsOneYear": 0.16,
-    "JobIncomeGrowth": 0.57,
-    "SuccessfulExits": 0.36,
-    "SuccessfulPHExits": 0.98
+    "LengthofTime": "null",
+    "ReturnsOneYear": "16%",
+    "JobIncomeGrowth": "57%",
+    "SuccessfulExits": "36%",
+    "SuccessfulPHExits": "98%"
   },
   {
     "Time": "Q2 2022",
     "FirstTimeHomeless": 11928,
     "LengthofTime": 107,
-    "ReturnsOneYear": 0.16,
-    "JobIncomeGrowth": 0.46,
-    "SuccessfulExits": 0.35,
-    "SuccessfulPHExits": 0.96
+    "ReturnsOneYear": "16%",
+    "JobIncomeGrowth": "46%",
+    "SuccessfulExits": "35%",
+    "SuccessfulPHExits": "96%"
   },
   {
     "Time": "Q3 2022",
     "FirstTimeHomeless": 13515,
     "LengthofTime": 115,
-    "ReturnsOneYear": 0.16,
-    "JobIncomeGrowth": 0.41,
-    "SuccessfulExits": 0.35,
-    "SuccessfulPHExits": 0.97
+    "ReturnsOneYear": "16%",
+    "JobIncomeGrowth": "41%",
+    "SuccessfulExits": "35%",
+    "SuccessfulPHExits": "97%"
   },
   {
     "Time": "Goal",
-    "FirstTimeHomeless": null,
+    "FirstTimeHomeless": "",
     "LengthofTime": 97,
-    "ReturnsOneYear": 0.13,
-    "JobIncomeGrowth": null,
-    "SuccessfulExits": 0.45,
-    "SuccessfulPHExits": 0.98
+    "ReturnsOneYear": "13%",
+    "JobIncomeGrowth": "",
+    "SuccessfulExits": "45%",
+    "SuccessfulPHExits": "98%"
   }
 ]
