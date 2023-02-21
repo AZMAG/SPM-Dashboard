@@ -43,14 +43,5 @@
     "JobIncomeGrowth": 0.41,
     "SuccessfulExits": 0.35,
     "SuccessfulPHExits": 0.97
-  },
-  {
-    "Time": "Goal",
-    "FirstTimeHomeless": "",
-    "LengthofTime": 97,
-    "ReturnsOneYear": 0.13,
-    "JobIncomeGrowth": "",
-    "SuccessfulExits": 0.45,
-    "SuccessfulPHExits": 0.98
   }
 ]
