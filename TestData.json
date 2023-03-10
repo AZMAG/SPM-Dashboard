@@ -7,7 +7,7 @@
     "JobIncomeGrowth": 0.43,
     "SuccessfulExits": 0.4,
     "SuccessfulPHExits": 0.93,
-    "customColor": #959595
+    "customColor": "#959595"
   },
   {
     "Time": "2019 SPM",
@@ -45,7 +45,8 @@
     "ReturnsOneYear": 0.16,
     "JobIncomeGrowth": 0.57,
     "SuccessfulExits": 0.36,
-    "SuccessfulPHExits": 0.98
+    "SuccessfulPHExits": 0.98,
+    "customColor": "#2baab1"
   },
   {
     "Time": "Q2 2022",
@@ -54,7 +55,8 @@
     "ReturnsOneYear": 0.16,
     "JobIncomeGrowth": 0.46,
     "SuccessfulExits": 0.35,
-    "SuccessfulPHExits": 0.96
+    "SuccessfulPHExits": 0.96,
+    "customColor": "#2baab1"
   },
   {
     "Time": "Q3 2022",
@@ -63,7 +65,8 @@
     "ReturnsOneYear": 0.16,
     "JobIncomeGrowth": 0.41,
     "SuccessfulExits": 0.35,
-    "SuccessfulPHExits": 0.97
+    "SuccessfulPHExits": 0.97,
+    "customColor": "#2baab1"
   },
   {
     "Time": "Q4 2022",
@@ -72,6 +75,7 @@
     "ReturnsOneYear": 0.18,
     "JobIncomeGrowth": 0.42,
     "SuccessfulExits": 0.34,
-    "SuccessfulPHExits": 0.96
+    "SuccessfulPHExits": 0.96,
+    "customColor": "#2baab1"
   }
 ]
