@@ -36,15 +36,6 @@
     "SuccessfulPHExits": 0.97
   },
   {
-    "Time": "Q4 2021",
-    "FirstTimeHomeless": 11578,
-    "LengthofTime": "",
-    "ReturnsOneYear": 0.18,
-    "JobIncomeGrowth": 0.57,
-    "SuccessfulExits": 0.39,
-    "SuccessfulPHExits": 0.97
-  },
-  {
     "Time": "Q1 2022",
     "FirstTimeHomeless": 11835,
     "LengthofTime": "",
@@ -70,5 +61,14 @@
     "JobIncomeGrowth": 0.41,
     "SuccessfulExits": 0.35,
     "SuccessfulPHExits": 0.97
+  },
+  {
+    "Time": "Q4 2022",
+    "FirstTimeHomeless": 12628,
+    "LengthofTime": 117,
+    "ReturnsOneYear": 0.18,
+    "JobIncomeGrowth": 0.42,
+    "SuccessfulExits": 0.34,
+    "SuccessfulPHExits": 0.96
   }
 ]
