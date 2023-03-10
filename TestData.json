@@ -26,7 +26,8 @@
     "ReturnsOneYear": 0.18,
     "JobIncomeGrowth": 0.46,
     "SuccessfulExits": 0.48,
-    "SuccessfulPHExits": 0.96
+    "SuccessfulPHExits": 0.96,
+    "customColor": "#959595"
   },
   {
     "Time": "2021 SPM",
