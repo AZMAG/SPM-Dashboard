@@ -7,7 +7,7 @@
     "JobIncomeGrowth": 0.43,
     "SuccessfulExits": 0.4,
     "SuccessfulPHExits": 0.93,
-    "customColor": "#959595"
+    "customColor": "#236F71"
   },
   {
     "Time": "2019 SPM",
@@ -17,7 +17,7 @@
     "JobIncomeGrowth": 0.46,
     "SuccessfulExits": 0.42,
     "SuccessfulPHExits": 0.93,
-    "customColor": "#959595"
+    "customColor": "#236F71"
   },
   {
     "Time": "2020 SPM",
@@ -27,7 +27,7 @@
     "JobIncomeGrowth": 0.46,
     "SuccessfulExits": 0.48,
     "SuccessfulPHExits": 0.96,
-    "customColor": "#959595"
+    "customColor": "#236F71"
   },
   {
     "Time": "2021 SPM",
@@ -37,7 +37,7 @@
     "JobIncomeGrowth": 0.57,
     "SuccessfulExits": 0.4,
     "SuccessfulPHExits": 0.97,
-    "customColor": "#959595"
+    "customColor": "#236F71"
   },
   {
     "Time": "Q1 2022",
