@@ -1,43 +1,63 @@
 [
   {
     "Time": "2018 SPM",
-    "FirstTimeHomeless": 7442,
+    "FirstTimeHomeless": 8998,
     "LengthofTime": 101,
     "ReturnsOneYear": 0.19,
-    "JobIncomeGrowth": 0.43,
+    "JobIncomeGrowth": 0.45,
+    "JobIncomeGrowthStayers": 0.45,
+    "JobIncomeGrowthLeavers": 0.39,
     "SuccessfulExits": 0.4,
     "SuccessfulPHExits": 0.93,
-    "customColor": "#236F71"
+    "customcolor": "#959595"
   },
   {
     "Time": "2019 SPM",
-    "FirstTimeHomeless": 8535,
+    "FirstTimeHomeless": 9635,
     "LengthofTime": 95,
-    "ReturnsOneYear": 0.2,
-    "JobIncomeGrowth": 0.46,
+    "ReturnsOneYear": 0.19,
+    "JobIncomeGrowth": 0.5,
+    "JobIncomeGrowthStayers": 0.5,
+    "JobIncomeGrowthLeavers": 0.39,
     "SuccessfulExits": 0.42,
     "SuccessfulPHExits": 0.93,
-    "customColor": "#236F71"
+    "customcolor": "#959595"
   },
   {
     "Time": "2020 SPM",
-    "FirstTimeHomeless": 7804,
+    "FirstTimeHomeless": 8800,
     "LengthofTime": 103,
     "ReturnsOneYear": 0.18,
-    "JobIncomeGrowth": 0.46,
+    "JobIncomeGrowth": 0.5,
+    "JobIncomeGrowthStayers": 0.5,
+    "JobIncomeGrowthLeavers": 0.43,
     "SuccessfulExits": 0.48,
     "SuccessfulPHExits": 0.96,
-    "customColor": "#236F71"
+    "customcolor": "#959595"
   },
   {
     "Time": "2021 SPM",
-    "FirstTimeHomeless": 10058,
+    "FirstTimeHomeless": 11402,
     "LengthofTime": 102,
     "ReturnsOneYear": 0.18,
     "JobIncomeGrowth": 0.57,
+    "JobIncomeGrowthStayers": 0.57,
+    "JobIncomeGrowthLeavers": 0.38,
     "SuccessfulExits": 0.4,
     "SuccessfulPHExits": 0.97,
-    "customColor": "#236F71"
+    "customcolor": "#959595"
+  },
+  {
+    "Time": "2022 SPM",
+    "FirstTimeHomeless": 13591,
+    "LengthofTime": 114,
+    "ReturnsOneYear": 0.13,
+    "JobIncomeGrowth": 0.55,
+    "JobIncomeGrowthStayers": 0.55,
+    "JobIncomeGrowthLeavers": 0.33,
+    "SuccessfulExits": 0.36,
+    "SuccessfulPHExits": 0.96,
+    "customcolor": "#959595"
   },
   {
     "Time": "Q1 2022",
@@ -45,9 +65,11 @@
     "LengthofTime": "",
     "ReturnsOneYear": 0.16,
     "JobIncomeGrowth": 0.57,
+    "JobIncomeGrowthStayers": 0.57,
+    "JobIncomeGrowthLeavers": "",
     "SuccessfulExits": 0.36,
     "SuccessfulPHExits": 0.98,
-    "customColor": "#2baab1"
+    "customcolor": "#2baab1"
   },
   {
     "Time": "Q2 2022",
@@ -55,9 +77,11 @@
     "LengthofTime": 107,
     "ReturnsOneYear": 0.16,
     "JobIncomeGrowth": 0.46,
+    "JobIncomeGrowthStayers": 0.46,
+    "JobIncomeGrowthLeavers": "",
     "SuccessfulExits": 0.35,
     "SuccessfulPHExits": 0.96,
-    "customColor": "#2baab1"
+    "customcolor": "#2baab1"
   },
   {
     "Time": "Q3 2022",
@@ -65,9 +89,11 @@
     "LengthofTime": 115,
     "ReturnsOneYear": 0.16,
     "JobIncomeGrowth": 0.41,
+    "JobIncomeGrowthStayers": 0.41,
+    "JobIncomeGrowthLeavers": "",
     "SuccessfulExits": 0.35,
     "SuccessfulPHExits": 0.97,
-    "customColor": "#2baab1"
+    "customcolor": "#2baab1"
   },
   {
     "Time": "Q4 2022",
@@ -75,8 +101,10 @@
     "LengthofTime": 117,
     "ReturnsOneYear": 0.18,
     "JobIncomeGrowth": 0.42,
+    "JobIncomeGrowthStayers": 0.42,
+    "JobIncomeGrowthLeavers": "",
     "SuccessfulExits": 0.34,
     "SuccessfulPHExits": 0.96,
-    "customColor": "#2baab1"
+    "customcolor": "#2baab1"
   }
 ]
