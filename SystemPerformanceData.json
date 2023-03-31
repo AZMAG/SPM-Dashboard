@@ -9,7 +9,7 @@
     "JobIncomeGrowthLeavers": 0.39,
     "SuccessfulExits": 0.4,
     "SuccessfulPHExits": 0.93,
-    "customcolor": "#959595"
+    "customColor": "#959595"
   },
   {
     "Time": "2019 SPM",
@@ -21,7 +21,7 @@
     "JobIncomeGrowthLeavers": 0.39,
     "SuccessfulExits": 0.42,
     "SuccessfulPHExits": 0.93,
-    "customcolor": "#959595"
+    "customColor": "#959595"
   },
   {
     "Time": "2020 SPM",
@@ -33,7 +33,7 @@
     "JobIncomeGrowthLeavers": 0.43,
     "SuccessfulExits": 0.48,
     "SuccessfulPHExits": 0.96,
-    "customcolor": "#959595"
+    "customColor": "#959595"
   },
   {
     "Time": "2021 SPM",
@@ -45,7 +45,7 @@
     "JobIncomeGrowthLeavers": 0.38,
     "SuccessfulExits": 0.4,
     "SuccessfulPHExits": 0.97,
-    "customcolor": "#959595"
+    "customColor": "#959595"
   },
   {
     "Time": "2022 SPM",
@@ -57,7 +57,7 @@
     "JobIncomeGrowthLeavers": 0.33,
     "SuccessfulExits": 0.36,
     "SuccessfulPHExits": 0.96,
-    "customcolor": "#959595"
+    "customColor": "#959595"
   },
   {
     "Time": "Q1 2022",
@@ -69,7 +69,7 @@
     "JobIncomeGrowthLeavers": "",
     "SuccessfulExits": 0.36,
     "SuccessfulPHExits": 0.98,
-    "customcolor": "#2baab1"
+    "customColor": "#2baab1"
   },
   {
     "Time": "Q2 2022",
@@ -81,7 +81,7 @@
     "JobIncomeGrowthLeavers": "",
     "SuccessfulExits": 0.35,
     "SuccessfulPHExits": 0.96,
-    "customcolor": "#2baab1"
+    "customColor": "#2baab1"
   },
   {
     "Time": "Q3 2022",
@@ -93,7 +93,7 @@
     "JobIncomeGrowthLeavers": "",
     "SuccessfulExits": 0.35,
     "SuccessfulPHExits": 0.97,
-    "customcolor": "#2baab1"
+    "customColor": "#2baab1"
   },
   {
     "Time": "Q4 2022",
@@ -105,6 +105,6 @@
     "JobIncomeGrowthLeavers": "",
     "SuccessfulExits": 0.34,
     "SuccessfulPHExits": 0.96,
-    "customcolor": "#2baab1"
+    "customColor": "#2baab1"
   }
 ]
