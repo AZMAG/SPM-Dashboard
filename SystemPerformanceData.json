@@ -111,7 +111,7 @@
     "SuccessfulPHExits": 0.96,
     "SuccessfulPHExitsLine": null,
     "customColor": "#2baab1",
-    "customColor2": "#2baab1"
+    "customColor2": "#0d4a4f"
   },
   {
     "Time": "Q3 2022",
@@ -130,7 +130,7 @@
     "SuccessfulPHExits": 0.97,
     "SuccessfulPHExitsLine": null,
     "customColor": "#2baab1",
-    "customColor2": "#2baab1"
+    "customColor2": "#0d4a4f"
   },
   {
     "Time": "Q4 2022",
@@ -149,7 +149,7 @@
     "SuccessfulPHExits": 0.96,
     "SuccessfulPHExitsLine": null,
     "customColor": "#2baab1",
-    "customColor2": "#2baab1"
+    "customColor2": "#0d4a4f"
   },
   {
     "Time": "Q1 2023",
@@ -168,6 +168,6 @@
     "SuccessfulPHExits": 0.96,
     "SuccessfulPHExitsLine": null,
     "customColor": "#2baab1",
-    "customColor2": "#2baab1"
+    "customColor2": "#0d4a4f"
   }
 ]
