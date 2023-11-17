@@ -95,25 +95,6 @@
     "customColor2": "#616161"
   },
   {
-    "Time": "Q3 2022",
-    "FirstTimeHomeless": 13515,
-    "FirstTimeHomelessLine": null,
-    "LengthofTime": 115,
-    "LengthofTimeLine": null,
-    "ReturnsOneYear": 0.16,
-    "ReturnsOneYearLine": null,
-    "JobIncomeGrowthStayersLine": null,
-    "JobIncomeGrowthStayers": 0.45,
-    "JobIncomeGrowthLeaversLine": null,
-    "JobIncomeGrowthLeavers": 0.36,
-    "SuccessfulExits": 0.35,
-    "SuccessfulExitsLine": null,
-    "SuccessfulPHExits": 0.97,
-    "SuccessfulPHExitsLine": null,
-    "customColor": "#2baab1",
-    "customColor2": "#0d4a4f"
-  },
-  {
     "Time": "Q4 2022",
     "FirstTimeHomeless": 12628,
     "FirstTimeHomelessLine": null,
