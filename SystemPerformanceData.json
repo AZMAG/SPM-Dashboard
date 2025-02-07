@@ -169,5 +169,24 @@
     "SuccessfulPHExitsLine": null,
     "customColor": "#2baab1",
     "customColor2": "#0d4a4f"
+  },
+  {
+    "Time": "Q4 2024",
+    "FirstTimeHomeless": 12014,
+    "FirstTimeHomelessLine": null,
+    "LengthofTime": 137,
+    "LengthofTimeLine": null,
+    "ReturnsOneYear": 0.17,
+    "ReturnsOneYearLine": null,
+    "JobIncomeGrowthStayersLine": null,
+    "JobIncomeGrowthStayers": 0.37,
+    "JobIncomeGrowthLeaversLine": null,
+    "JobIncomeGrowthLeavers": 0.32,
+    "SuccessfulExits": 0.43,
+    "SuccessfulExitsLine": null,
+    "SuccessfulPHExits": 0.96,
+    "SuccessfulPHExitsLine": null,
+    "customColor": "#2baab1",
+    "customColor2": "#0d4a4f"
   }
 ]
